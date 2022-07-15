@@ -1,4 +1,4 @@
-# Printf project by Samuel Adjei and Emmanuella Yawson
+# Printf project by Samuel Adjei and Emmanuella Yawson.
 
 0x11. C - printf
 ================
